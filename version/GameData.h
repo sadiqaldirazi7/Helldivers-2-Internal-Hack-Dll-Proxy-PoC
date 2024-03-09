@@ -4,7 +4,7 @@ class GameData
 	public:
 		bool	InfAmmo = false;
 		bool	InfAmmoLegit = false;
-		bool	InfGrenades = false;
+		bool	InfGrenades = true;
 		bool	InfGrenadesLegit = false;
 		bool	InfSyringes = false;
 		bool	InfSyringesLegit = false;
